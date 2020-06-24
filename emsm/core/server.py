@@ -710,7 +710,7 @@ class Vanilla_1_14(VanillaBase):
 
     @classmethod
     def name(self):
-        return "vanilla 1.13"
+        return "vanilla 1.14"
 
     def default_url(self):
         return "https://launcher.mojang.com/v1/objects/3dc3d84a581f14691199cf6831b71ed1296a9fdf/server.jar"
